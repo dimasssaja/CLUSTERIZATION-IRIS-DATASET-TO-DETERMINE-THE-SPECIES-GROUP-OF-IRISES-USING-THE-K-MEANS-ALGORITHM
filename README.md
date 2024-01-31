@@ -1,6 +1,7 @@
 # UAS-PEMBELAJARAN-MESIN
 BERISI FILE-FILE YANG DIGUNAKAN DALAM PEMBUATAN PROJEK UAS KELAS B
-PROJEK UAS DATASET IRIS K-MEANS CLUSTERING
+
+# PROJEK UAS DATASET IRIS K-MEANS CLUSTERING
 # ![Bunga IRIS](https://th.bing.com/th/id/OIP.nfK3vGZkTa4GrO7yWpcS-QHaDT?rs=1&pid=ImgDetMain)
 # Jupyter Notebook
 <table>
@@ -13,7 +14,7 @@ PROJEK UAS DATASET IRIS K-MEANS CLUSTERING
 
 
 ## Hasil Visualisasi Klaster
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+# ![Visualiasi_Klaster](https://th.bing.com/th/id/OIP.nfK3vGZkTa4GrO7yWpcS-QHaDT?rs=1&pid=ImgDetMain](https://github.com/dimasssaja/UAS-PEMBELAJARAN-MESIN/blob/main/Screenshot%20Data%20Gambar/Screenshot%202024-02-01%20000610.png?raw=true)
 
 
 ## Site
