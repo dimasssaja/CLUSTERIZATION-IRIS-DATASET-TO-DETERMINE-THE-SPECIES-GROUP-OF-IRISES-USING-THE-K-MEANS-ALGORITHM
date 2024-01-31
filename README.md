@@ -1,7 +1,7 @@
 # UAS-PEMBELAJARAN-MESIN
 BERISI FILE-FILE YANG DIGUNAKAN DALAM PEMBUATAN PROJEK UAS
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
+# ![Bunga IRIS]([https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG](https://th.bing.com/th/id/OIP.nfK3vGZkTa4GrO7yWpcS-QHaDT?rs=1&pid=ImgDetMain))
+# Jupyter Notebook
 <table>
 <tr>
 <td>
