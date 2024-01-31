@@ -3,6 +3,13 @@ BERISI FILE-FILE YANG DIGUNAKAN DALAM PEMBUATAN PROJEK UAS KELAS B
 
 # PROJEK UAS DATASET IRIS K-MEANS CLUSTERING
 # ![Bunga IRIS](https://th.bing.com/th/id/OIP.nfK3vGZkTa4GrO7yWpcS-QHaDT?rs=1&pid=ImgDetMain)
+<table>
+<tr>
+<td>
+  PEMBAGIAN JENIS SPESIES BUNGA IRIS, IRIS-SETOSA, IRIS-VERSICOLOUR, IRIS-VIRGINICA
+</td>
+</tr>
+</table>
 # Jupyter Notebook
 <table>
 <tr>
@@ -17,31 +24,11 @@ BERISI FILE-FILE YANG DIGUNAKAN DALAM PEMBUATAN PROJEK UAS KELAS B
 # ![Visualiasi_Klaster](https://github.com/dimasssaja/UAS-PEMBELAJARAN-MESIN/blob/main/Screenshot%20Data%20Gambar/Screenshot%202024-02-01%20000610.png?raw=true)
 
 
-## Site
+## Elbow Method
+# ![Elbow](https://github.com/dimasssaja/UAS-PEMBELAJARAN-MESIN/blob/main/Screenshot%20Data%20Gambar/Screenshot%202024-02-01%20000620.png?raw=true)
 
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
-
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
-
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
-
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
-
-
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
-
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
-
-
-
-
-## [Usage](https://iharsh234.github.io/WebApp/) 
+## Persebaran Data
+# ![Persebaran Data](https://github.com/dimasssaja/UAS-PEMBELAJARAN-MESIN/blob/main/Screenshot%20Data%20Gambar/Screenshot%202024-02-01%20000649.png?raw=true)
 
 
 
@@ -54,7 +41,4 @@ The WebApp is compatible with devices of all sizes and all OS's, and consistent 
 
 [[Dimas Abi Mesti]
 
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
-
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
 
