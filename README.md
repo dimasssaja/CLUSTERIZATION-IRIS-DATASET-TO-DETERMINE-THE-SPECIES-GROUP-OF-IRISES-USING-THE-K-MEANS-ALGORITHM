@@ -1,5 +1,6 @@
 # UAS-PEMBELAJARAN-MESIN
 BERISI FILE-FILE YANG DIGUNAKAN DALAM PEMBUATAN PROJEK UAS KELAS B
+PROJEK UAS DATASET IRIS K-MEANS CLUSTERING
 # ![Bunga IRIS](https://th.bing.com/th/id/OIP.nfK3vGZkTa4GrO7yWpcS-QHaDT?rs=1&pid=ImgDetMain)
 # Jupyter Notebook
 <table>
@@ -11,7 +12,7 @@ BERISI FILE-FILE YANG DIGUNAKAN DALAM PEMBUATAN PROJEK UAS KELAS B
 </table>
 
 
-## Demo
+## Hasil Visualisasi Klaster
 Here is a working live demo :  https://iharsh234.github.io/WebApp/
 
 
@@ -50,7 +51,7 @@ The WebApp is compatible with devices of all sizes and all OS's, and consistent 
 
 ## Pembuat
 
-[![Dimas Abi Mesti]
+[[Dimas Abi Mesti]
 
 ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
