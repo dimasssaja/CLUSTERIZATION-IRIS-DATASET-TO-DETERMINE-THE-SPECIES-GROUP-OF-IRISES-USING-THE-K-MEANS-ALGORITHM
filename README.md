@@ -2,7 +2,7 @@
 BERISI FILE-FILE YANG DIGUNAKAN DALAM PEMBUATAN PROJEK UAS KELAS B
 
 # PROJEK UAS DATASET IRIS K-MEANS CLUSTERING
-# ![Bunga IRIS](https://th.bing.com/th/id/OIP.nfK3vGZkTa4GrO7yWpcS-QHaDT?rs=1&pid=ImgDetMain)
+# ![Bunga IRIS]([https://github.com/dimasssaja/DHT-11-OLED-DISPLAY-/blob/main/DATA%20GAMBAR/ESP%2032%20OLED%20DHT11.jpeg))
 <table>
 <tr>
 <td>
